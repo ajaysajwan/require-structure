@@ -1,0 +1,11 @@
+//css file
+.main{
+	width: 100%;
+	height: 100%;
+	background-color: beige;
+}
+.divClass{
+	width:200px;
+	height:100px;
+	background-color:#abccdd;
+}
